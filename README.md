@@ -7,7 +7,6 @@ Due to privacy regulations, original student data is not included. All examples 
 
 ## Contents
 - evaluation_code: Google Colab notebook used in analysis
-- LuedekeMisconceptions: Research paper draft and project summary
 
 ## Author
 Ella Luedeke
